@@ -10,7 +10,7 @@ Jika anda tidak yakin dalam mengalami galat ipshelper.js, anda diharapkan untuk 
 
 ## Lisensi
 
-GNU Public License v3
+GNU GENERAL PUBLIC LICENSE V3
 
 [Wikipedia:ipshelper.js]: https://id.wikipedia.org/wiki/Wikipedia:ipshelper.js
 [Pembicaraan Pengguna:Janorovic Volkov]: https://id.wikipedia.org/wiki/Pembicaraan_Pengguna:Janorovic_Volkov
